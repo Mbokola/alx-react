@@ -1,0 +1,1 @@
+In this project we learn webpack; how to install and configure it.
